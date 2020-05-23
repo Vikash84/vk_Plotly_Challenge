@@ -1,3 +1,11 @@
-# Plot.ly Homework - Belly Button Biodiversity
+## Plotly challenge 
 
-This is an interactive dashboard that explore the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels.
+
+
+## Images
+
+![Image1](Images/Image-1.PNG)
+
+![Image2](Images/Image-2.PNG)
+
+
